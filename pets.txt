@@ -1,3 +1,5 @@
 cat
 dog
 goldfish
+lion
+tiger
