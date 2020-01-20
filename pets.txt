@@ -2,3 +2,5 @@ tardigrade
 cat
 dog
 goldfish
+lion
+tiger
