@@ -8,3 +8,7 @@ hamster
 rat
 swans
 frogs
+
+worm
+snail
+crawfish
