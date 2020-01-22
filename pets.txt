@@ -4,5 +4,7 @@ dog
 goldfish
 lion
 tiger
+hamster
+rat
 swans
 frogs
